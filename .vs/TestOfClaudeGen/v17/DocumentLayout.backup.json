@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\TestOfClaudeGen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9D9B54-3F68-440F-AAFB-237015CBB858}|Core.User\\Core.User.csproj|d:\\work\\testofclaudegen\\core.user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9D9B54-3F68-440F-AAFB-237015CBB858}|Core.User\\Core.User.csproj|solutionrelative:core.user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9D9B54-3F68-440F-AAFB-237015CBB858}|Core.User\\Core.User.csproj|d:\\work\\testofclaudegen\\core.user\\ruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9D9B54-3F68-440F-AAFB-237015CBB858}|Core.User\\Core.User.csproj|solutionrelative:core.user\\ruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RUser.cs",
+              "DocumentMoniker": "D:\\WORK\\TestOfClaudeGen\\Core.User\\RUser.cs",
+              "RelativeDocumentMoniker": "Core.User\\RUser.cs",
+              "ToolTip": "D:\\WORK\\TestOfClaudeGen\\Core.User\\RUser.cs",
+              "RelativeToolTip": "Core.User\\RUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:53:28.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WORK\\TestOfClaudeGen\\Core.User\\User.cs",
+              "RelativeDocumentMoniker": "Core.User\\User.cs",
+              "ToolTip": "D:\\WORK\\TestOfClaudeGen\\Core.User\\User.cs",
+              "RelativeToolTip": "Core.User\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:53:09.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

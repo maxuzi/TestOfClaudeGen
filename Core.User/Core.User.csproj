@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AssemblyName>TestOfClaudeGen.Core.User</AssemblyName>
+    <RootNamespace>TestOfClaudeGen.Core.User</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\X.Proto.Framework.v5\X.Proto.Common.ServiceConnector\X.Proto.Common.ServiceConnector.csproj" />
+    <ProjectReference Include="..\..\X.Proto.Framework.v5\X.Proto.Db.Api\X.Proto.Db.Api.csproj" />
+    <ProjectReference Include="..\..\X.Proto.Framework.v5\X.Proto.Db.Component.Crud\X.Proto.Db.Component.Crud.csproj" />
+  </ItemGroup>
+
+</Project>
