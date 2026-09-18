@@ -23,3 +23,4 @@ D:\WORK\TestOfClaudeGen\Core.User\obj\Debug\net8.0\TestOfClaudeGen.Core.User.dll
 D:\WORK\TestOfClaudeGen\Core.User\obj\Debug\net8.0\refint\TestOfClaudeGen.Core.User.dll
 D:\WORK\TestOfClaudeGen\Core.User\obj\Debug\net8.0\TestOfClaudeGen.Core.User.pdb
 D:\WORK\TestOfClaudeGen\Core.User\obj\Debug\net8.0\ref\TestOfClaudeGen.Core.User.dll
+D:\WORK\TestOfClaudeGen\Core.User\obj\Debug\net8.0\Core.User.sourcelink.json
