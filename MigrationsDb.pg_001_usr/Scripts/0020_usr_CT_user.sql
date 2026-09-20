@@ -1,7 +1,7 @@
 -- UML: Core.User page — usr.user «table»
---   + id: TIMESTAMP   «XPK»
---   + name: TEXT      <<INCLUDE>>   (included into the primary key)
---   + account: TEXT   «XUK»
+--   + id: TIMESTAMP    «XPK» (INCLUDE name)
+--   + name: TEXT        <<INCLUDE>>
+--   + account: TEXT     «XUK»
 CREATE TABLE IF NOT EXISTS usr.user (
    id        TIMESTAMP
   ,name      TEXT

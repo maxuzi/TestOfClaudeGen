@@ -6,7 +6,6 @@ namespace TestOfClaudeGen.Core.User
 {
     /// <summary>
     /// Autofac registration module for the Core.User use case.
-    /// Registered as a named IXConnector so XServiceConnector can resolve it by "IUser".
     /// </summary>
     public class RUser : Module
     {
