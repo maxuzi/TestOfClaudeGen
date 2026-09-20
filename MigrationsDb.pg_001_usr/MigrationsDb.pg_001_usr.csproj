@@ -14,10 +14,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Scripts\000_usr_schema.sql">
+    <None Update="Scripts\0000_usr_schema.sql">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Scripts\001_usr_CT_user.sql">
+    <None Update="Scripts\0020_usr_CT_user.sql">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="Scripts\0040_usr_CT_user_jobs.sql">
