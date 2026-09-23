@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AssemblyName>TestOfClaudeGen.Core.User.Facade</AssemblyName>
+    <RootNamespace>TestOfClaudeGen.Core.User.Facade</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\X.Proto.Framework.v5\X.Proto.Common.ServiceConnector\X.Proto.Common.ServiceConnector.csproj" />
+    <ProjectReference Include="..\..\X.Proto.Framework.v5\X.Proto.Common.Endpoints.Invoker\X.Proto.Common.Endpoints.Invoker.csproj" />
+  </ItemGroup>
+
+</Project>

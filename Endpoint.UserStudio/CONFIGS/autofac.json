@@ -1,0 +1,38 @@
+{
+    "modules": [
+        {
+            "type": "X.Proto.Common.ServiceConnector.RXServiceConnector, X.Proto.Common.ServiceConnector"
+        },
+        {
+            "type": "X.Proto.Common.Events.RXEvents, X.Proto.Common.Events"
+        },
+        {
+            "type": "X.Proto.Db.Api.RXDbApi, X.Proto.Db.Api"
+        },
+        {
+            "type": "X.Proto.Db.Core.Rdbms.RXDbPostgreSQL, X.Proto.Db.Core.Rdbms"
+        },
+        {
+            "type": "X.Proto.Db.Component.Crud.RXCrudComponent, X.Proto.Db.Component.Crud"
+        },
+        {
+            "type": "X.Proto.Db.Component.MasterDetails.RXMasterDetail, X.Proto.Db.Component.MasterDetails"
+        },
+
+
+        {
+            "type": "TestOfClaudeGen.Core.User.RUser, TestOfClaudeGen.Core.User"
+        },
+        {
+            "type": "TestOfClaudeGen.Core.User.Jobs.RUserJobs, TestOfClaudeGen.Core.User.Jobs"
+        }
+
+    ]
+
+  //,"components": [
+  //  {
+  //    "type": "X.Proto.Component.ServiceBrokers.RabbitMQ.XEventRabbitMQ, X.Proto.Component.ServiceBrokers.RabbitMQ",
+  //    "services": [{ "type": "X.Proto.Common.Events.IXEvent, X.Proto.Common.Events" }]
+  //  }
+  //]
+}

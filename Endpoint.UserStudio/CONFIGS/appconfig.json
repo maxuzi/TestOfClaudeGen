@@ -1,0 +1,9 @@
+{
+  "PoolConnections": [
+    {
+      "ConnectionType": "PostgreSQL",
+      "ConnectionString": "Host=localhost;Port=5432;Database=THIRDEYE.common;Username=postgres;Password=Maxuzi4848"
+    }
+  ]
+
+}

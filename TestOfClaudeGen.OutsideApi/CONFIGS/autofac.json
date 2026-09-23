@@ -1,0 +1,20 @@
+{
+    "modules": [
+        {
+            "type": "X.Proto.Common.ServiceConnector.RXServiceConnector, X.Proto.Common.ServiceConnector"
+        },
+        {
+            "type": "X.Proto.Common.Endpoints.Invoker.RXInvoker, X.Proto.Common.Endpoints.Invoker"
+        },
+        {
+            "type": "X.Proto.Common.Endpoints.Invoker.RabbitMQ.RXInvokerRabbitMQ, X.Proto.Common.Endpoints.Invoker.RabbitMQ"
+        }
+    ]
+
+  //,"components": [
+  //  {
+  //    "type": "X.Proto.Component.ServiceBrokers.RabbitMQ.XEventRabbitMQ, X.Proto.Component.ServiceBrokers.RabbitMQ",
+  //    "services": [{ "type": "X.Proto.Common.Events.IXEvent, X.Proto.Common.Events" }]
+  //  }
+  //]
+}
