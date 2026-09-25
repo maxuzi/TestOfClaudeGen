@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\X.Proto.Framework.v5\X.Proto.Common.ServiceConnector\X.Proto.Common.ServiceConnector.csproj" />
     <ProjectReference Include="..\..\X.Proto.Framework.v5\X.Proto.Common.Endpoints.Invoker\X.Proto.Common.Endpoints.Invoker.csproj" />
+    <ProjectReference Include="..\..\X.Proto.Framework.v5\X.Proto.Component.Patterns.Multiplexor\X.Proto.Component.Patterns.Multiplexor.csproj" />
   </ItemGroup>
 
 </Project>
